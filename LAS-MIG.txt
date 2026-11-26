@@ -1,0 +1,13 @@
+EJB Byggentreprenad – komplett statisk webbplats
+
+Ladda upp innehållet i denna mapp inklusive assets och alla HTML-filer till webbhotellets public_html eller roten i ditt GitHub Pages-repo. Öppna index.html för att se sidan. Inget byggsteg behövs.
+
+Kontakt: telefon och mejl fungerar direkt. Formuläret öppnar ett mejlutkast, det skickar inte automatiskt. Ingen webbshop eller betalning används.
+
+SEO: unika sidtitlar/beskrivningar, rubriker, bildtexter, schema.org, sitemap och robots finns. Canonical- och sitemap-adresser använder https://ejbbygg.se. Byt dessa om annan slutlig domän används. Ingen viss Google-position kan garanteras. Vid ersättning av en befintlig webbplats ska gamla sidadresser omdirigeras till rätt nya sidor.
+
+Uppgifter hämtade 26 november 2026. Kontrollera priser, hyresvillkor, tillgänglighet och kontaktuppgifter innan offentlig lansering. Inga påhittade betyg.
+
+Bilder från företagets ursprungliga webbplats. Bekräfta användningsrättigheter före offentlig lansering. Eventuell originalfilm eller dokument som länkas externt kräver internet.
+
+Manrope-licens finns i licenses/.
